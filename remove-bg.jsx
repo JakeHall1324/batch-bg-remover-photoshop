@@ -29,12 +29,6 @@ var isImageBg = true;
 //-----------------------------------------------------------------------------------
 
 
-//Check if it's selected to use an image as background
-	if(isImageBg){
-		//Store background image and a variable
-		var doc_bg = app.activeDocument;
-	}
-
 
 //Cheks if the source folder is null
   if (sourceFolder != null)
